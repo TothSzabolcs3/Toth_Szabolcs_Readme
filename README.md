@@ -1,38 +1,75 @@
-# Welcome to My GitHub Profile
-# About Me
-Hello! My name is Tóth Szabolcs, and I am a passionate Network Technician / Network Engineer /  IT Specialist /IT Technician / HelpDesk 
-# My Skills & Expertise
-Networking: i learned from Yotube CCNA 200-301 (VLANs, routing & switching, network security)
+# 👋 Welcome to My GitHub Profile
 
-Linux Administration: i installed Debian, Kali Linux, Ubuntu
+## 🧑‍💻 About Me
 
-IoT & Smart Systems: Simulating IoT networks
+Hi, I'm **Tóth Szabolcs**, an enthusiastic and self-motivated student with a strong passion for **networking**, **cybersecurity**, and **system administration**. With hands-on experience in configuring networks, troubleshooting systems, and working with Linux environments, I’m actively seeking opportunities as a:
 
-Programming & Scripting: Python, Bash scripting for automation
+- 🖧 Network Technician / Network Engineer  
+- 🛠️ IT Technician / Help Desk Specialist  
+- 🔐 Cybersecurity Enthusiast  
 
-Cloud & Virtualization: Virtual machines
+I'm continuously learning and improving through practical labs, real-world simulations, and scripting projects.
 
-What I'm Looking For
+---
 
-I am currently searching for roles such as:
-Network Technician / Network Engineer /  IT Specialist /IT Technician / HelpDesk 
+## 🧠 Skills & Technologies
 
-I am open to opportunities that allow me to combine my expertise in networking, security, and system administration, preferably in environments where I can continue learning and improving my skills.
+### 🕸️ Networking
+- Studied **CCNA 200-301 topics** through self-learning (VLANs, routing & switching, subnetting, network security)
+- Designed & simulated networks using **Cisco Packet Tracer**
 
-Projects & Contributions
+### 🐧 Linux System Administration
+- Installed and configured **Debian**, **Kali Linux**, and **Ubuntu**
+- Familiar with **basic shell scripting**, user management, and system services
 
-You can find my projects related to networking, automation, cybersecurity, and IoT simulations on this GitHub profile. Some of my notable works include:
+### 🧪 Cybersecurity & Pentesting
+- Built **ethical hacking labs** using Kali Linux and virtual machines
+- Practiced **penetration testing techniques** and vulnerability scanning
 
-IoT Smart Home Simulation – A secure, scalable smart home architecture designed in Cisco Packet Tracer.
+### ☁️ Virtualization & Cloud
+- Created virtual environments using **VirtualBox** and **VMware**
+- Familiar with basic **cloud concepts** and virtual networking
 
-Network Automation Scripts – Python and Bash scripts to automate network configuration.
+### ⚙️ Automation & Scripting
+- Automated repetitive tasks using **Python** and **Bash**
+- Developed scripts for basic **network configurations**
 
-Pentesting Labs – Hands-on ethical hacking exercises using Kali Linux.
+---
 
-Contact Me
+## 🔍 What I'm Looking For
 
-Feel free to reach out if you are interested in my work or if you have an opportunity that matches my expertise:
+I'm actively seeking positions where I can grow as an IT professional while applying and expanding my skills. Ideal roles include:
 
-Email: [Your Email]
+- **IT Support / Help Desk**
+- **Network Technician or Junior Network Engineer**
+- **Cybersecurity Trainee / SOC Analyst (Entry-Level)**
 
-LinkedIn: [Your LinkedIn Profile]
+I am especially interested in environments that value learning, security awareness, and practical problem-solving.
+
+---
+
+## 🛠️ Projects & Labs
+
+Here are a few highlights from my GitHub repositories:
+
+- 🔒 **IoT Smart Home Simulation**  
+  Designed a secure, scalable smart home architecture using Cisco Packet Tracer.
+
+- 📜 **Network Automation Scripts**  
+  Python and Bash scripts to automate common network tasks and configuration.
+
+- 🧑‍💻 **Pentesting Practice Labs**  
+  Hands-on ethical hacking exercises in a virtual lab using **Kali Linux** and vulnerable systems.
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [your.email@example.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+
+I'm always open to networking, collaboration, and new career opportunities!
+
+---
+
+> 🛡️ *“Security is not a product, but a process.” – Bruce Schneier*
